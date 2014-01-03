@@ -16,3 +16,7 @@ MIT
 
 
 [screenshot]: http://imageshack.com/a/img6/8483/1zol.png
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kdelemme/ratp-map/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
